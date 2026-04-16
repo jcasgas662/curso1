@@ -1,0 +1,2259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260416204014K47X1U</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604162040141JRJPD</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>MÁS ALLÁ DE LA TIERRA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Conocimiento del Medio</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>José María Casado Gascón</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>CURSO: 6º Ed. Primaria
+MATERIA: Conocimiento del Medio
+SDA: Más allá de la Tierra</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776364787832</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo1tqag4-tc7ydrc0p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SDA. MÁS ALLÁ DE LA TIERRA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SDA. MÁS ALLÁ DE LA TIERRA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SDA.- EL AGUA DE NUESTRA TIERRA: RÍO Y PANTANO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SDA. MÁS ALLÁ DE LA TIERRA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tqag4-tc7ydrc0p</odePageId>
+      <odeBlockId>block-mnw8ijek-zxatbxve9</odeBlockId>
+      <blockName>INTRODUCCIÓN</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag4-tc7ydrc0p</odePageId>
+          <odeBlockId>block-mnw8ijek-zxatbxve9</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijek-zxlj6zrbo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-size: 14pt; color: #2126a7;"><strong><span style="font-family: 'comic sans ms', sans-serif;">En esta situación de aprendizaje vamos a emprender un viaje por el universo. Antes de partir, conoceremos nuestra propia casa, La Tierra. Nos adentraremos en los planetas que componen Sistema Solar para luego viajar hacia el que tú elijas, ¿te atreves? ¿Has pensado que vas a echar en la maleta?</span></strong></span></p>
+<figure class="exe-figure position-center" style="width: 504px; text-align: center;"><img src="{{context_path}}/content/resources/wikiimages-earth-11009_1920.jpg" title="La Tierra" width="504" height="504" alt="Planeta Tierra" />
+<figcaption class="figcaption"><span style="font-family: 'comic sans ms', sans-serif;"><strong><span class="author">Pixabay / Wikilmages</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></strong></span></figcaption>
+</figure>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijek-zxlj6zrbo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 14pt; color: #2126a7;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">En esta situación de aprendizaje vamos a emprender un viaje por el universo. Antes de partir, conoceremos nuestra propia casa, La Tierra. Nos adentraremos en los planetas que componen Sistema Solar para luego viajar hacia el que tú elijas, ¿te atreves? ¿Has pensado que vas a echar en la maleta?</span></strong></span></p>\n<figure class=\"exe-figure position-center\" style=\"width: 504px; text-align: center;\"><img src=\"{{context_path}}/content/resources/wikiimages-earth-11009_1920.jpg\" title=\"La Tierra\" width=\"504\" height=\"504\" alt=\"Planeta Tierra\" />\n<figcaption class=\"figcaption\"><span style=\"font-family: 'comic sans ms', sans-serif;\"><strong><span class=\"author\">Pixabay / Wikilmages</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></strong></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tqag6-brd7qvz3j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>JUSTIFICACIÓN</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>JUSTIFICACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>JUSTIFICACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tqag6-brd7qvz3j</odePageId>
+      <odeBlockId>block-mnw8ijel-ct3731uvh</odeBlockId>
+      <blockName>JUSTIFICACIÓN</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag6-brd7qvz3j</odePageId>
+          <odeBlockId>block-mnw8ijel-ct3731uvh</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-6ycek5amb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><span style="color: #2126a7;"><strong><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif;">Visualización sobre la justificación y la información general de nuestra SDA.</span></strong></span></p>
+<p style="text-align: center;"><span style="color: #2126a7;"><strong><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif;">(Pincha en la imagen)</span></strong></span></p>
+<figure class="exe-figure position-center" style="width: 540px; text-align: center;"><a href="https://canva.link/cwtaw79k7y4wp35" title="Más allá de la Tierra" target="_blank" rel="noopener"><img src="{{context_path}}/content/resources/ivan81241-planets-5878993.jpg" title="Universo" width="540" height="304" alt="" /></a>
+<figcaption class="figcaption"><strong><span style="font-family: 'comic sans ms', sans-serif;"><span class="author">Pixabay / ivan81241</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></span></strong></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-6ycek5amb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><span style=\"color: #2126a7;\"><strong><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif;\">Visualización sobre la justificación y la información general de nuestra SDA.</span></strong></span></p>\n<p style=\"text-align: center;\"><span style=\"color: #2126a7;\"><strong><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif;\">(Pincha en la imagen)</span></strong></span></p>\n<figure class=\"exe-figure position-center\" style=\"width: 540px; text-align: center;\"><a href=\"https://canva.link/cwtaw79k7y4wp35\" title=\"Más allá de la Tierra\" target=\"_blank\" rel=\"noopener\"><img src=\"{{context_path}}/content/resources/ivan81241-planets-5878993.jpg\" title=\"Universo\" width=\"540\" height=\"304\" alt=\"\" /></a>\n<figcaption class=\"figcaption\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\"><span class=\"author\">Pixabay / ivan81241</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></span></strong></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tqag6-s9g06gidm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS Y DERECHOS DIGITALES</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS Y DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS Y DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PROTECCIÓN DE DATOS Y DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tqag6-s9g06gidm</odePageId>
+      <odeBlockId>block-1776074686301-b7n0ew50l</odeBlockId>
+      <blockName>PROTECCIÓN DE DATOS Y DERECHOS DIGITALES</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag6-s9g06gidm</odePageId>
+          <odeBlockId>block-1776074686301-b7n0ew50l</odeBlockId>
+          <odeIdeviceId>idevice-1776074686300-xmgspib30</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-size: 14pt; color: #2126a7;"><strong><span style="font-family: 'comic sans ms', sans-serif;">Antes de adentrarnos en nuestra SDA debemos tener en cuenta esta <span title="">información</span> sobre la protección de datos personales y garantías de derechos digitales.</span></strong></span></p>
+<p style="text-align: center;"><a href="https://view.genially.com/69b0981480ac573b30e068af"><span style="font-size: 14pt;"><strong><span style="font-family: 'comic sans ms', sans-serif;" title="">(Pincha aquí)</span></strong></span></a></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong><span style="font-family: 'comic sans ms', sans-serif;" title=""></span></strong></span><br /></p>
+<figure class="exe-figure position-center" style="width: 517px;"><img src="{{context_path}}/content/resources/mohamed_hassan-cybercrime-9635869.svg" title="Herramientas digitales" width="517" height="517" alt="" />
+<figcaption class="figcaption"><span class="author">Pixabay / Mohamed_hassan</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p style="text-align: center;"><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776074686300-xmgspib30","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 14pt; color: #2126a7;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">Antes de adentrarnos en nuestra SDA debemos tener en cuenta esta <span title=\"\">información</span> sobre la protección de datos personales y garantías de derechos digitales.</span></strong></span></p>\n<p style=\"text-align: center;\"><a href=\"https://view.genially.com/69b0981480ac573b30e068af\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">(Pincha aquí)</span></strong></span></a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\"></span></strong></span><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 517px;\"><img src=\"{{context_path}}/content/resources/mohamed_hassan-cybercrime-9635869.svg\" title=\"Herramientas digitales\" width=\"517\" height=\"517\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Pixabay / Mohamed_hassan</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tqag6-34rz2peu4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TEMPORALIZACIÓN</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TEMPORALIZACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TEMPORALIZACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tqag6-34rz2peu4</odePageId>
+      <odeBlockId>block-mnw8ijel-fey6hnuyf</odeBlockId>
+      <blockName>LÍNEA TEMPORAL</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag6-34rz2peu4</odePageId>
+          <odeBlockId>block-mnw8ijel-fey6hnuyf</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-fcu9fvlhj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt; color: #2126a7;"><strong>Esta SDA la distribuiremos en las siguientes sesiones, agrupamientos, espacios y tareas:</strong></span></p>
+<p><img src="{{context_path}}/content/resources/Línea del tiempo Más allá.png" width="1440" height="810" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-fcu9fvlhj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14pt; color: #2126a7;\"><strong>Esta SDA la distribuiremos en las siguientes sesiones, agrupamientos, espacios y tareas:</strong></span></p>\n<p><img src=\"{{context_path}}/content/resources/Línea del tiempo Más allá.png\" width=\"1440\" height=\"810\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tqag6-wzh6ox5uh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>HERRAMIENTAS DIGITALES</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tqag6-wzh6ox5uh</odePageId>
+      <odeBlockId>block-mnw8ijel-5bj64bf5o</odeBlockId>
+      <blockName>HERRAMIENTAS DIGITALES</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag6-wzh6ox5uh</odePageId>
+          <odeBlockId>block-mnw8ijel-5bj64bf5o</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-l08fn51jo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="color: #2126a7;"><strong><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif;">Estas herramientas digitales serán las que utilizaremos en esta situación de aprendizaje. Podéis pinchar en la imagen para poder acceder a cada una de ellas.</span></strong></span></p>
+<p><a href="https://www.symbaloo.com/shared/AAAABvgOyQMAA42ADs97cg=="><strong><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif;" title=""><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-13 a las 12.44.09.png" width="556" height="329" alt="Symbaloo" style="display: block; margin-left: auto; margin-right: auto;" /></span></strong></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-l08fn51jo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"color: #2126a7;\"><strong><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif;\">Estas herramientas digitales serán las que utilizaremos en esta situación de aprendizaje. Podéis pinchar en la imagen para poder acceder a cada una de ellas.</span></strong></span></p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAABvgOyQMAA42ADs97cg==\"><strong><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif;\" title=\"\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-13 a las 12.44.09.png\" width=\"556\" height=\"329\" alt=\"Symbaloo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></strong></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tqag7-1dbyo4h2o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SECUENCIA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SECUENCIA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SECUENCIA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tqag7-1dbyo4h2o</odePageId>
+      <odeBlockId>block-mnw8ijel-24lzlftms</odeBlockId>
+      <blockName>Tareas de nuestra SDA</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag7-1dbyo4h2o</odePageId>
+          <odeBlockId>block-mnw8ijel-24lzlftms</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-ytn71laiu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;"><strong>En este apartado podemos ver las tareas principales para la realización de esta SDA.</strong></span></p>
+<p style="text-align: center;"><a href="https://padlet.com/jcasgas662/m-s-all-de-la-tierra-uqkvendjl5ju32mn"><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;"><strong title="">PADLET</strong></span></a><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;"><strong title=""></strong></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;"><strong title=""><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-14 a las 11.48.23.png" width="1440" height="668" alt="" /></strong></span></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-ytn71laiu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;\"><strong>En este apartado podemos ver las tareas principales para la realización de esta SDA.</strong></span></p>\n<p style=\"text-align: center;\"><a href=\"https://padlet.com/jcasgas662/m-s-all-de-la-tierra-uqkvendjl5ju32mn\"><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;\"><strong title=\"\">PADLET</strong></span></a><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;\"><strong title=\"\"></strong></span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;\"><strong title=\"\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-14 a las 11.48.23.png\" width=\"1440\" height=\"668\" alt=\"\" /></strong></span></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tqag7-chger3cc1</odePageId>
+  <odeParentPageId>page-mo1tqag7-1dbyo4h2o</odeParentPageId>
+  <pageName>1. Conocemos nuestro planeta</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Conocemos nuestro planeta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Mapa interactivo del entorno y del río</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Conocemos nuestro planeta</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tqag7-chger3cc1</odePageId>
+      <odeBlockId>block-mnw8ijel-rvy1veswe</odeBlockId>
+      <blockName>La Tierra</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag7-chger3cc1</odePageId>
+          <odeBlockId>block-mnw8ijel-rvy1veswe</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-42kb9u4l5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="color: #2126a7;"><strong><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif;">¿Cuánto sabes de nuestro planeta? ¿Sabías que la Tierra no para de moverse?</span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif;"> <a href="https://padlet.com/jcasgas662/m-s-all-de-la-tierra-uqkvendjl5ju32mn/wish/lDK1ZRLJe7y4aJ9z" title="">Investiga y aprende</a></span></p>
+<p style="text-align: center;"><a href="https://www.youtube.com/watch?v=3QcKxwy06iw" title=""><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif;" title="">Viajes espaciales</span></a></p>
+<figure class="exe-figure position-center" style="width: 264px; text-align: center;"><img src="{{context_path}}/content/resources/Diseño sin título.png" width="264" height="265" alt="" />
+<figcaption class="figcaption"><span style="font-family: 'comic sans ms', sans-serif;"><span class="author">Canva</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+<p><br /></p>
+<p style="text-align: center;"><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif;">Canva</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-42kb9u4l5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"color: #2126a7;\"><strong><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif;\">¿Cuánto sabes de nuestro planeta? ¿Sabías que la Tierra no para de moverse?</span></strong></span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif;\"> <a href=\"https://padlet.com/jcasgas662/m-s-all-de-la-tierra-uqkvendjl5ju32mn/wish/lDK1ZRLJe7y4aJ9z\" title=\"\">Investiga y aprende</a></span></p>\n<p style=\"text-align: center;\"><a href=\"https://www.youtube.com/watch?v=3QcKxwy06iw\" title=\"\"><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif;\" title=\"\">Viajes espaciales</span></a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 264px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Diseño sin título.png\" width=\"264\" height=\"265\" alt=\"\" />\n<figcaption class=\"figcaption\"><span style=\"font-family: 'comic sans ms', sans-serif;\"><span class=\"author\">Canva</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></span></figcaption>\n</figure>\n<p><br /></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif;\">Canva</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1tqag7-chger3cc1</odePageId>
+      <odeBlockId>block-mnw8ijel-sfju7fkjx</odeBlockId>
+      <blockName>Criterios de evaluación </blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag7-chger3cc1</odePageId>
+          <odeBlockId>block-mnw8ijel-sfju7fkjx</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-b80exj05e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>CMN 6.2.2 Buscar, seleccionar y contrastar información, de diferentes fuentes seguras y fiables, usando los criterios de fiabilidad de fuentes, adquiriendo léxico científico básico, utilizándola en investigaciones relacionadas con el medio natural, social y cultural. </p>
+<p>LCC 6.4.1 Comprender el sentido global y la información relevante de textos escritos y multimodales, realizando inferencias a partir de estrategias básicas de antes, durante y después de la lectura.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-b80exj05e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>CMN 6.2.2 Buscar, seleccionar y contrastar información, de diferentes fuentes seguras y fiables, usando los criterios de fiabilidad de fuentes, adquiriendo léxico científico básico, utilizándola en investigaciones relacionadas con el medio natural, social y cultural. </p>\n<p>LCC 6.4.1 Comprender el sentido global y la información relevante de textos escritos y multimodales, realizando inferencias a partir de estrategias básicas de antes, durante y después de la lectura.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1tqag7-chger3cc1</odePageId>
+      <odeBlockId>block-mnw8ijel-zne39y922</odeBlockId>
+      <blockName>Recursos</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag7-chger3cc1</odePageId>
+          <odeBlockId>block-mnw8ijel-zne39y922</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-1a3rik1wj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><span style="font-family: 'comic sans ms', sans-serif;">Chromebooks</span></li>
+<li><span style="font-family: 'comic sans ms', sans-serif;">Padlet</span></li>
+<li><span style="font-family: 'comic sans ms', sans-serif;">PDF</span></li>
+<li><span style="font-family: 'comic sans ms', sans-serif;">Youtube</span></li>
+</ul>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-1a3rik1wj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">Chromebooks</span></li>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">Padlet</span></li>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">PDF</span></li>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">Youtube</span></li>\n</ul>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tqag8-zcp6hdoaj</odePageId>
+  <odeParentPageId>page-mo1tqag7-1dbyo4h2o</odeParentPageId>
+  <pageName>2. Entrevista con astronautas</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Entrevista con astronautas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Investigación sobre flora y fauna</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Entrevista con astronautas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tqag8-zcp6hdoaj</odePageId>
+      <odeBlockId>block-mnw8ijel-yvsymh0o1</odeBlockId>
+      <blockName>De primera mano: entrevista a los astronautas españoles Pablo Álvarez y Sara García Alonso</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag8-zcp6hdoaj</odePageId>
+          <odeBlockId>block-mnw8ijel-yvsymh0o1</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-7cer8osdu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;">Conocemos a dos astronautas españoles, concretamente de Castilla y León, Sara García Alonso y Pablo Álvarez. Elegidos entre más de dos mil candidaturas para viajar al espacio.</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;">Tras el visionado de la entrevista expondremos lo que nos ha parecido más interesante y resolveremos preguntas de compresión oral.</span></strong></p>
+<p>                  </p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 500px; text-align: center;">
+<figcaption class="figcaption header"><strong>Entrevista a los astronautas españoles</strong></figcaption>
+<iframe width="500" height="250" src="https://www.youtube.com/embed/EUevaA-pLfs?si=cCgiG63NJEa-_Ogu" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span style="font-family: 'comic sans ms', sans-serif;"><span class="author">Youtube / RTVE</span>. <span class="title"><em>Sara García Alonso y Pablo Álvarez</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-7cer8osdu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;\">Conocemos a dos astronautas españoles, concretamente de Castilla y León, Sara García Alonso y Pablo Álvarez. Elegidos entre más de dos mil candidaturas para viajar al espacio.</span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;\">Tras el visionado de la entrevista expondremos lo que nos ha parecido más interesante y resolveremos preguntas de compresión oral.</span></strong></p>\n<p>                  </p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 500px; text-align: center;\">\n<figcaption class=\"figcaption header\"><strong>Entrevista a los astronautas españoles</strong></figcaption>\n<iframe width=\"500\" height=\"250\" src=\"https://www.youtube.com/embed/EUevaA-pLfs?si=cCgiG63NJEa-_Ogu\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span style=\"font-family: 'comic sans ms', sans-serif;\"><span class=\"author\">Youtube / RTVE</span>. <span class=\"title\"><em>Sara García Alonso y Pablo Álvarez</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1tqag8-zcp6hdoaj</odePageId>
+      <odeBlockId>block-mnw8ijel-g5ms1nhnv</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag8-zcp6hdoaj</odePageId>
+          <odeBlockId>block-mnw8ijel-g5ms1nhnv</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-4l3ahxurp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>CMN 6.1.1 Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura y eficiente, buscando información, comunicándose y trabajando de forma individual, en equipo y en red, reelaborando y creando contenidos digitales sencillos, interpretando, organizando y analizando la información y aumentando la productividad y eficiencia en el propio trabajo.</p>
+<p> LCL 6.4.2. Analizar e interpretar, de manera acompañada, el contenido y aspectos formales y no verbales elementales de textos escritos y multimodales, valorando su contenido y estructura y evaluando su calidad, fiabilidad, idoneidad en función del propósito de lectura.</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-4l3ahxurp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>CMN 6.1.1 Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura y eficiente, buscando información, comunicándose y trabajando de forma individual, en equipo y en red, reelaborando y creando contenidos digitales sencillos, interpretando, organizando y analizando la información y aumentando la productividad y eficiencia en el propio trabajo.</p>\n<p> LCL 6.4.2. Analizar e interpretar, de manera acompañada, el contenido y aspectos formales y no verbales elementales de textos escritos y multimodales, valorando su contenido y estructura y evaluando su calidad, fiabilidad, idoneidad en función del propósito de lectura.</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1tqag8-zcp6hdoaj</odePageId>
+      <odeBlockId>block-mnw8ijel-9ljm6n6vy</odeBlockId>
+      <blockName>Recursos </blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag8-zcp6hdoaj</odePageId>
+          <odeBlockId>block-mnw8ijel-9ljm6n6vy</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-3966osgcj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><span style="font-family: 'comic sans ms', sans-serif;">Chromebooks</span></li>
+<li><span style="font-family: 'comic sans ms', sans-serif;">Youtube</span></li>
+<li><span style="font-family: 'comic sans ms', sans-serif;">Google Form</span></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-3966osgcj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">Chromebooks</span></li>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">Youtube</span></li>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">Google Form</span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tqag8-p08mhsamm</odePageId>
+  <odeParentPageId>page-mo1tqag7-1dbyo4h2o</odeParentPageId>
+  <pageName>3. Manos a la obra</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Manos a la obra</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Creación de un modelo de ciclo del agua (interactivo)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Manos a la obra</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tqag8-p08mhsamm</odePageId>
+      <odeBlockId>block-mnw8ijel-s83x96r5h</odeBlockId>
+      <blockName>Creación de un mapa interactivo</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag8-p08mhsamm</odePageId>
+          <odeBlockId>block-mnw8ijel-s83x96r5h</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-7gn6dtivq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;">Elaboración un mapa interactivo en Canva con las características más importantes de un planeta a elegir del sistema Solar. Nos agrupamos en equipos de 3 personas. </span></strong></p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px; text-align: center;" id="fig_1lrkhwi9s">
+<figcaption class="figcaption header"><strong>El sistema Solar y sus componentes</strong></figcaption>
+<iframe width="560" height="314" src="https://www.youtube.com/embed/H_W7E-dUkms?si=DT6t_-_re4GJHsgc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><strong><span style="font-family: 'comic sans ms', sans-serif;"><span class="author">Youtube / Youcaan</span>. <span class="title"><em>El Sistema Solar y sus componentes</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></span></strong></figcaption>
+</figure>
+<p style="text-align: center;"><strong><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;"> </span></strong></p>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-7gn6dtivq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;\">Elaboración un mapa interactivo en Canva con las características más importantes de un planeta a elegir del sistema Solar. Nos agrupamos en equipos de 3 personas. </span></strong></p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px; text-align: center;\" id=\"fig_1lrkhwi9s\">\n<figcaption class=\"figcaption header\"><strong>El sistema Solar y sus componentes</strong></figcaption>\n<iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/H_W7E-dUkms?si=DT6t_-_re4GJHsgc\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\"><span class=\"author\">Youtube / Youcaan</span>. <span class=\"title\"><em>El Sistema Solar y sus componentes</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></span></strong></figcaption>\n</figure>\n<p style=\"text-align: center;\"><strong><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;\"> </span></strong></p>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1tqag8-p08mhsamm</odePageId>
+      <odeBlockId>block-mnw8ijel-xt0s9b18l</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag8-p08mhsamm</odePageId>
+          <odeBlockId>block-mnw8ijel-xt0s9b18l</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-y7j3ht3fs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>CMN 6.5.1 Identificar y analizar las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, utilizando las herramientas y los procesos adecuados.</p>
+<p>LCL 6.6.1. Localizar, seleccionar y contrastar información de distintas fuentes, incluidas las digitales, citándolas y recreándolas mediante la adaptación creativa de modelos dados.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-y7j3ht3fs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>CMN 6.5.1 Identificar y analizar las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, utilizando las herramientas y los procesos adecuados.</p>\n<p>LCL 6.6.1. Localizar, seleccionar y contrastar información de distintas fuentes, incluidas las digitales, citándolas y recreándolas mediante la adaptación creativa de modelos dados.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1tqag8-p08mhsamm</odePageId>
+      <odeBlockId>block-mnw8ijel-6rppkusvl</odeBlockId>
+      <blockName>Recursos</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag8-p08mhsamm</odePageId>
+          <odeBlockId>block-mnw8ijel-6rppkusvl</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-msfyym9by</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><span style="font-family: 'comic sans ms', sans-serif;">Chromebooks</span></li>
+<li><a href="https://youtu.be/H_W7E-dUkms?si=A5iVvk3h_mn5hji0"><span style="font-family: 'comic sans ms', sans-serif;" title="">Youtube</span></a></li>
+<li><span style="font-family: 'comic sans ms', sans-serif;"><a href="https://www.canva.com" title="">Canva</a></span></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-msfyym9by","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">Chromebooks</span></li>\n<li><a href=\"https://youtu.be/H_W7E-dUkms?si=A5iVvk3h_mn5hji0\"><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">Youtube</span></a></li>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\"><a href=\"https://www.canva.com\" title=\"\">Canva</a></span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tqag8-1p2e3rlq2</odePageId>
+  <odeParentPageId>page-mo1tqag7-1dbyo4h2o</odeParentPageId>
+  <pageName>4. Cuidemos nuestro planeta</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Cuidemos nuestro planeta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Entrevista a un agricultor sobre el uso de agua responsable y la contaminación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Cuidemos nuestro planeta</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tqag8-1p2e3rlq2</odePageId>
+      <odeBlockId>block-mnw8ijel-c1dbp4hii</odeBlockId>
+      <blockName>Medidas para cuidar la Tierra</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag8-1p2e3rlq2</odePageId>
+          <odeBlockId>block-mnw8ijel-c1dbp4hii</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-hwwgrel25</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt; color: #2126a7;">Seguimos conservando la misma agrupación de 3 componentes para elaborar una lista de medidas para cuidar a la Tierra de todos los perjuicios que está causando el ser humano. Una vez recopiladas, dejad esas medidas recopiladas en un Genially.</span></strong></p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 500px; text-align: center;" id="fig_hklz7b4sg">
+<figcaption class="figcaption header"><strong>El cambio climático</strong></figcaption>
+<iframe width="500" height="250" src="https://www.youtube.com/embed/kcr-Ryq6Nrk?si=bLSGeDRzT8yJNBzK" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span style="font-family: 'comic sans ms', sans-serif;"><span class="author">Youtube / Smile and Learn</span>. <span class="title"><em>Cambio climático</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+<p style="text-align: center;"><strong><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt; color: #2126a7;"></span></strong><br /></p>
+<p style="text-align: center;"><strong><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt; color: #2126a7;"></span></strong><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-hwwgrel25","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14pt; color: #2126a7;\">Seguimos conservando la misma agrupación de 3 componentes para elaborar una lista de medidas para cuidar a la Tierra de todos los perjuicios que está causando el ser humano. Una vez recopiladas, dejad esas medidas recopiladas en un Genially.</span></strong></p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 500px; text-align: center;\" id=\"fig_hklz7b4sg\">\n<figcaption class=\"figcaption header\"><strong>El cambio climático</strong></figcaption>\n<iframe width=\"500\" height=\"250\" src=\"https://www.youtube.com/embed/kcr-Ryq6Nrk?si=bLSGeDRzT8yJNBzK\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span style=\"font-family: 'comic sans ms', sans-serif;\"><span class=\"author\">Youtube / Smile and Learn</span>. <span class=\"title\"><em>Cambio climático</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14pt; color: #2126a7;\"></span></strong><br /></p>\n<p style=\"text-align: center;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14pt; color: #2126a7;\"></span></strong><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1tqag8-1p2e3rlq2</odePageId>
+      <odeBlockId>block-mnw8ijel-0nvlj2wvl</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag8-1p2e3rlq2</odePageId>
+          <odeBlockId>block-mnw8ijel-0nvlj2wvl</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-z8nwqfbhy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>CMN 6.5.1 Identificar y analizar las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, utilizando las herramientas y los procesos adecuados.</p>
+<p> LCL 6.6.1. Localizar, seleccionar y contrastar información de distintas fuentes, incluidas las digitales, citándolas y recreándolas mediante la adaptación creativa de modelos dados.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-z8nwqfbhy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>CMN 6.5.1 Identificar y analizar las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, utilizando las herramientas y los procesos adecuados.</p>\n<p> LCL 6.6.1. Localizar, seleccionar y contrastar información de distintas fuentes, incluidas las digitales, citándolas y recreándolas mediante la adaptación creativa de modelos dados.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1tqag8-1p2e3rlq2</odePageId>
+      <odeBlockId>block-mnw8ijel-u8kem0xrz</odeBlockId>
+      <blockName>Recursos</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag8-1p2e3rlq2</odePageId>
+          <odeBlockId>block-mnw8ijel-u8kem0xrz</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-71l4x5sod</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><span style="font-family: 'comic sans ms', sans-serif;">Chromebooks</span></li>
+<li><a href="https://youtu.be/kcr-Ryq6Nrk?si=bLSGeDRzT8yJNBzK"><span style="font-family: 'comic sans ms', sans-serif;" title="">Youtube</span></a></li>
+<li><a href="https://genially.com/es/crear/presentaciones/"><span style="font-family: 'comic sans ms', sans-serif;" title="">Genially</span></a></li>
+</ul>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-71l4x5sod","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">Chromebooks</span></li>\n<li><a href=\"https://youtu.be/kcr-Ryq6Nrk?si=bLSGeDRzT8yJNBzK\"><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">Youtube</span></a></li>\n<li><a href=\"https://genially.com/es/crear/presentaciones/\"><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">Genially</span></a></li>\n</ul>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tqag9-yl09319pq</odePageId>
+  <odeParentPageId>page-mo1tqag7-1dbyo4h2o</odeParentPageId>
+  <pageName>5. Presentación del proyecto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Presentación del proyecto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Presentación final del proyecto en Genially</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Presentación del proyecto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tqag9-yl09319pq</odePageId>
+      <odeBlockId>block-mnw8ijel-eqofobsvo</odeBlockId>
+      <blockName>Agencia de Viajes Interesterlar</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag9-yl09319pq</odePageId>
+          <odeBlockId>block-mnw8ijel-eqofobsvo</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-2j2xhof81</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="color: #2126a7;"><strong><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif;">Cada grupo presentará en Canva su proyecto final <em>"Agencia de Viajes Interestelar"</em> en el que incluya la información recogida en las sesiones anteriores y, propondrán su destino ideal: un planeta a dónde viajar. Ahí incluirá características de ese planeta, distancia a la Tierra...</span></strong></span></p>
+<p style="text-align: center;"><span style="color: #2126a7;"><strong><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif;"> La presentación debe ser interactiva, incluir imágenes, videos y enlaces a información relevante sobre el planeta.</span></strong></span></p>
+<figure class="exe-figure position-center" style="width: 540px; text-align: center;"><img src="{{context_path}}/content/resources/alexandra_koch-ai-generated-7827608.jpg" width="540" height="411" alt="" />
+<figcaption class="figcaption"><span style="font-family: 'comic sans ms', sans-serif;"><strong><span class="author">Pixabay / Alexandra_Coch</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></strong></span></figcaption>
+</figure>
+<p style="text-align: center;"><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-2j2xhof81","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"color: #2126a7;\"><strong><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif;\">Cada grupo presentará en Canva su proyecto final <em>\"Agencia de Viajes Interestelar\"</em> en el que incluya la información recogida en las sesiones anteriores y, propondrán su destino ideal: un planeta a dónde viajar. Ahí incluirá características de ese planeta, distancia a la Tierra...</span></strong></span></p>\n<p style=\"text-align: center;\"><span style=\"color: #2126a7;\"><strong><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif;\"> La presentación debe ser interactiva, incluir imágenes, videos y enlaces a información relevante sobre el planeta.</span></strong></span></p>\n<figure class=\"exe-figure position-center\" style=\"width: 540px; text-align: center;\"><img src=\"{{context_path}}/content/resources/alexandra_koch-ai-generated-7827608.jpg\" width=\"540\" height=\"411\" alt=\"\" />\n<figcaption class=\"figcaption\"><span style=\"font-family: 'comic sans ms', sans-serif;\"><strong><span class=\"author\">Pixabay / Alexandra_Coch</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></strong></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1tqag9-yl09319pq</odePageId>
+      <odeBlockId>block-mnw8ijel-fvmpiwy98</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag9-yl09319pq</odePageId>
+          <odeBlockId>block-mnw8ijel-fvmpiwy98</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-oqet9w6yb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>CMN 6.5.1 Identificar y analizar las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, utilizando las herramientas y los procesos adecuados.</p>
+<p> LCL 6.6.2. Compartir los resultados de un proceso de investigación sencillo, individual o grupal, sobre algún tema de interés personal o ecosocial, realizado de manera acompañada.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-oqet9w6yb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>CMN 6.5.1 Identificar y analizar las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, utilizando las herramientas y los procesos adecuados.</p>\n<p> LCL 6.6.2. Compartir los resultados de un proceso de investigación sencillo, individual o grupal, sobre algún tema de interés personal o ecosocial, realizado de manera acompañada.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1tqag9-yl09319pq</odePageId>
+      <odeBlockId>block-mnw8ijel-jx8c3zxzc</odeBlockId>
+      <blockName>Recursos</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag9-yl09319pq</odePageId>
+          <odeBlockId>block-mnw8ijel-jx8c3zxzc</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-ymsxalvd1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><span style="font-family: 'comic sans ms', sans-serif;">Pizarra digital</span></li>
+<li><a href="https://www.canva.com"><span style="font-family: 'comic sans ms', sans-serif;" title="">Canva</span></a></li>
+</ul>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-ymsxalvd1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">Pizarra digital</span></li>\n<li><a href=\"https://www.canva.com\"><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">Canva</span></a></li>\n</ul>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1tqag9-yl09319pq</odePageId>
+      <odeBlockId>block-mnw8ijel-kqh9hpj1k</odeBlockId>
+      <blockName>Herramienta de evaluación</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag9-yl09319pq</odePageId>
+          <odeBlockId>block-mnw8ijel-kqh9hpj1k</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-ssiy21ygc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/RÚBRICA EXPOSICIÓN “AGENCIA DE VIAJES INTERESTELAR”.png" title="Rúbrica de evaluación" width="924" height="693" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-ssiy21ygc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/RÚBRICA EXPOSICIÓN “AGENCIA DE VIAJES INTERESTELAR”.png\" title=\"Rúbrica de evaluación\" width=\"924\" height=\"693\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tqag9-hjg0v8uzb</odePageId>
+  <odeParentPageId>page-mo1tqag7-1dbyo4h2o</odeParentPageId>
+  <pageName>6. Cuestionario interactivo</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Cuestionario interactivo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Cuestionario interactivo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Cuestionario interactivo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tqag9-hjg0v8uzb</odePageId>
+      <odeBlockId>block-1776328766985-x876sqfw1</odeBlockId>
+      <blockName>¿Qué recuerdas?</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag9-hjg0v8uzb</odePageId>
+          <odeBlockId>block-1776328766985-x876sqfw1</odeBlockId>
+          <odeIdeviceId>idevice-1776328766981-4zvz8ydfj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;">A través de este cuestionario vamos a comprobar, de manera individual, cuanto recordamos de lo que hemos aprendido y nos han enseñado nuestros compañeros.</span></strong></p>
+<p style="text-align: center;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdbD2fIfcyj2aOdNPA7rOAHxHJ0gdikVAnp7oTKGPt6pNphnA/viewform?usp=sharing&ouid=112153201090764117284" title="Cuestionario Google" target="_blank" rel="noopener"><strong><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;" title="Cuestionario Google"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-16 a las 10.45.04.png" title="Cuestionario" width="540" height="202" alt="" /></span></strong></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776328766981-4zvz8ydfj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;\">A través de este cuestionario vamos a comprobar, de manera individual, cuanto recordamos de lo que hemos aprendido y nos han enseñado nuestros compañeros.</span></strong></p>\n<p style=\"text-align: center;\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdbD2fIfcyj2aOdNPA7rOAHxHJ0gdikVAnp7oTKGPt6pNphnA/viewform?usp=sharing&ouid=112153201090764117284\" title=\"Cuestionario Google\" target=\"_blank\" rel=\"noopener\"><strong><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;\" title=\"Cuestionario Google\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-16 a las 10.45.04.png\" title=\"Cuestionario\" width=\"540\" height=\"202\" alt=\"\" /></span></strong></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1tqag9-hjg0v8uzb</odePageId>
+      <odeBlockId>block-1776332300047-nn0spb4e4</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag9-hjg0v8uzb</odePageId>
+          <odeBlockId>block-1776332300047-nn0spb4e4</odeBlockId>
+          <odeIdeviceId>idevice-1776332300044-qyfjh7zmx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>CMN 6.5.2 Establecer conexiones sencillas entre diferentes elementos del medio natural, social y cultural, mostrando comprensión de las relaciones que se establecen, visibilizando y proponiendo soluciones a los problemas que genera el uso del espacio y sus transformaciones, los cambios y adaptaciones producidos por el ser humano y las distintas organizaciones sociales que se han desarrollado.</p>
+<p>LCL 6.4.2. Analizar e interpretar, de manera acompañada, el contenido y aspectos formales y no verbales elementales de textos escritos y multimodales, valorando su contenido y estructura y evaluando su calidad, fiabilidad, idoneidad en función del propósito de lectura.</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776332300044-qyfjh7zmx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>CMN 6.5.2 Establecer conexiones sencillas entre diferentes elementos del medio natural, social y cultural, mostrando comprensión de las relaciones que se establecen, visibilizando y proponiendo soluciones a los problemas que genera el uso del espacio y sus transformaciones, los cambios y adaptaciones producidos por el ser humano y las distintas organizaciones sociales que se han desarrollado.</p>\n<p>LCL 6.4.2. Analizar e interpretar, de manera acompañada, el contenido y aspectos formales y no verbales elementales de textos escritos y multimodales, valorando su contenido y estructura y evaluando su calidad, fiabilidad, idoneidad en función del propósito de lectura.</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1tqag9-hjg0v8uzb</odePageId>
+      <odeBlockId>block-1776332530165-bw2dd8zd9</odeBlockId>
+      <blockName>Recursos</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqag9-hjg0v8uzb</odePageId>
+          <odeBlockId>block-1776332530165-bw2dd8zd9</odeBlockId>
+          <odeIdeviceId>idevice-1776332530162-g7103qzkj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><span style="font-family: 'comic sans ms', sans-serif;">Chromebook</span></li>
+<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdbD2fIfcyj2aOdNPA7rOAHxHJ0gdikVAnp7oTKGPt6pNphnA/viewform"><span style="font-family: 'comic sans ms', sans-serif;" title="">Cuestionario Google Form</span></a></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776332530162-g7103qzkj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">Chromebook</span></li>\n<li><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdbD2fIfcyj2aOdNPA7rOAHxHJ0gdikVAnp7oTKGPt6pNphnA/viewform\"><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">Cuestionario Google Form</span></a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tqaga-edbxf7po6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tqaga-edbxf7po6</odePageId>
+      <odeBlockId>block-mnw8ijel-0c2do5nu0</odeBlockId>
+      <blockName>TAREAS- CRITERIOS DE EVALUACIÓN</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqaga-edbxf7po6</odePageId>
+          <odeBlockId>block-mnw8ijel-0c2do5nu0</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-uk2j43hgr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;">En la siguiente tabla podemos ver la relación de tareas que vamos a realizar con los criterios de evaluación, así como con las herramientas, el tiempo y el agrupamiento establecido.</span></strong></p>
+<p style="text-align: center;"><a href="https://drive.google.com/file/d/1AeqKHrQbMPC8BT8dd-Ezp_IykucDUkk2/view?usp=sharing" title="CRITERIOS Y TAREAS"><span style="font-size: 18pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;"><strong title="CRITERIOS Y TAREAS">DOCUMENTO</strong></span></a></p>
+<p><br /><br /><br /><br /><br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnw8ijel-uk2j43hgr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;\">En la siguiente tabla podemos ver la relación de tareas que vamos a realizar con los criterios de evaluación, así como con las herramientas, el tiempo y el agrupamiento establecido.</span></strong></p>\n<p style=\"text-align: center;\"><a href=\"https://drive.google.com/file/d/1AeqKHrQbMPC8BT8dd-Ezp_IykucDUkk2/view?usp=sharing\" title=\"CRITERIOS Y TAREAS\"><span style=\"font-size: 18pt; font-family: 'comic sans ms', sans-serif; color: #2126a7;\"><strong title=\"CRITERIOS Y TAREAS\">DOCUMENTO</strong></span></a></p>\n<p><br /><br /><br /><br /><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1tqaga-zvugcg5fr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1tqaga-zvugcg5fr</odePageId>
+      <odeBlockId>block-mnw8ijel-fq3q4ej00</odeBlockId>
+      <blockName>Descargar archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1tqaga-zvugcg5fr</odePageId>
+          <odeBlockId>block-mnw8ijel-fq3q4ej00</odeBlockId>
+          <odeIdeviceId>idevice-mnw8ijel-0qqhw5jdp</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>SDA. MÁS ALLÁ DE LA TIERRA</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Con esta situación de aprendizaje, el alumnado alumnos no solo aprenderán sobre el río Guadajoz y el Pantano de Vadomojón desde un punto de vista natural y geográfico, sino que también desarrollarán una mayor conciencia sobre la importancia de la conservación de estos recursos naturales y el impacto de sus acciones en el medio ambiente. Además, el trabajo en equipo y la presentación de sus conocimientos les permitirá poner en práctica diversas habilidades comunicativas.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>José María Casado Gascón</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
